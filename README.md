@@ -1,5 +1,7 @@
 <h3>1)</h3>
 
+```csharp
+
 Console.WriteLine("Informe um número para saber se ele pertence ou não à sequência de fibonnaci");
 string? number = Console.ReadLine();
 int intNumber = Int32.Parse(number);
@@ -26,8 +28,11 @@ if (fib.Contains(intNumber))
     Console.WriteLine($"{intNumber} pertence à sequência de fibonnaci");
 else
     Console.WriteLine($"{intNumber} não pertence à sequência de fibonnaci");
+```
 
 <h3>2)</h3>
+
+```csharp
 string sentence = " EscrevA um programA que verifique, em umA string, a existência da letra ‘a’, seja maiúscula ou minúscula, além de informar a quantidade de vezes em que ela ocorre";
 
 int a=0;
@@ -38,8 +43,11 @@ for (int i = 0; i < sentence.Length; i++)
         a++;
 }
 Console.WriteLine($"Quantidade de letras a-A na frase é: {a}");
+```
 
 <h3>3)</h3>
+
+```csharp
 
 int sum = 0;
 int index = 12;
@@ -53,7 +61,11 @@ do
 
 Console.WriteLine($"Valor: {sum}");
 
+```
+
 <h3>4)</h3>
+
+```csharp
 
 /*
 a - 1, 3, 5, 7, 9, 11, 13 -> Números ímpares;
@@ -76,7 +88,11 @@ f - 2,10, 12, 16, 17, 18, 19, 20, 21, 22, 23 -> números primos e compostos (at�
 23 primo
 */
 
+```
+
 <h3>5)</h3>
+
+```csharp
 
 /*
  * Acendo o interruptor 1 e espero cerca de 15 minutos
@@ -87,3 +103,4 @@ f - 2,10, 12, 16, 17, 18, 19, 20, 21, 22, 23 -> números primos e compostos (at�
  *      se a lâmpada estiver apagada e quente é a sala referente ao interruptor que foi aceso e apagado antes de verificar as salas;
  *      se a lâmpada estiver acesa é a sala referente ao interruptor que foi aceso antes da verificação.
  */
+```
