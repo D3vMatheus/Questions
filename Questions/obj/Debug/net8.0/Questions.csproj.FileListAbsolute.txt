@@ -1,0 +1,14 @@
+C:\Users\mathe\source\repos\Questions\Questions\bin\Debug\net8.0\Questions.exe
+C:\Users\mathe\source\repos\Questions\Questions\bin\Debug\net8.0\Questions.deps.json
+C:\Users\mathe\source\repos\Questions\Questions\bin\Debug\net8.0\Questions.runtimeconfig.json
+C:\Users\mathe\source\repos\Questions\Questions\bin\Debug\net8.0\Questions.dll
+C:\Users\mathe\source\repos\Questions\Questions\bin\Debug\net8.0\Questions.pdb
+C:\Users\mathe\source\repos\Questions\Questions\obj\Debug\net8.0\Questions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\source\repos\Questions\Questions\obj\Debug\net8.0\Questions.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\Questions\Questions\obj\Debug\net8.0\Questions.AssemblyInfo.cs
+C:\Users\mathe\source\repos\Questions\Questions\obj\Debug\net8.0\Questions.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Questions\Questions\obj\Debug\net8.0\Questions.dll
+C:\Users\mathe\source\repos\Questions\Questions\obj\Debug\net8.0\refint\Questions.dll
+C:\Users\mathe\source\repos\Questions\Questions\obj\Debug\net8.0\Questions.pdb
+C:\Users\mathe\source\repos\Questions\Questions\obj\Debug\net8.0\Questions.genruntimeconfig.cache
+C:\Users\mathe\source\repos\Questions\Questions\obj\Debug\net8.0\ref\Questions.dll
